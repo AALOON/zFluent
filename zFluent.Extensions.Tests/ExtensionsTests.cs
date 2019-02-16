@@ -74,7 +74,6 @@ namespace zFluent.Extensions.Tests
                     .WithRetryFuncAsync<HttpClient, HttpResponseMessage>(RetryIfExceptionAsync)
                     .RetryAsync(c => c.GetAsync("http://example120.com/"));
 
-            // assert
             await act.Should().ThrowAsync<Exception>();
             RetryCount.Should().Be(0);
         }
