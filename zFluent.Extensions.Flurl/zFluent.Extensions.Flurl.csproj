@@ -15,4 +15,15 @@
     <PackageReference Include="zFluent.Extensions" Version="1.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="..\README.md">
+      <Pack>true</Pack>
+      <PackagePath>\</PackagePath>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.txt" Pack="true" PackagePath="" />
+  </ItemGroup>
+
 </Project>
