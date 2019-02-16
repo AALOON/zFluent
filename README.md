@@ -1,9 +1,11 @@
 # zFluent
 
 The project which contains some fluent help functions
+https://github.com/AALOON/zFluent
 
 ## Getting Started
 
+https://www.nuget.org/packages/zFluent.Extensions/
 
 ### Example
 
@@ -50,3 +52,4 @@ private HttpResponseMessage RetryIfException(HttpClient client,
 
 ## License
 
+[GNU GENERAL PUBLIC LICENSE](https://github.com/AALOON/zFluent/blob/master/LICENSE.txt)
