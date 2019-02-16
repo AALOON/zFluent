@@ -11,7 +11,7 @@ Install-Package zFluent.Extensions -Version 1.0.2
 ```
 https://www.nuget.org/packages/zFluent.Extensions.Flurl/
 ```
-Install-Package zFluent.Extensions.Flurl -Version 1.0.0
+Install-Package zFluent.Extensions.Flurl -Version 1.0.2
 ```
 
 ### Example

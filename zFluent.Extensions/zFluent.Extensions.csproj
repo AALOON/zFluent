@@ -6,6 +6,7 @@
     <PackageId>zFluent.Extensions</PackageId>
     <Description>The project which contains some fluent functions. It brings convenience to your project.</Description>
     <Version>1.0.2</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
